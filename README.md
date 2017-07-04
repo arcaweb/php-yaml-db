@@ -1,2 +1,2 @@
 # php-yaml-db
-Simple PHP database base on yaml files
+Simple PHP database based on yaml files
